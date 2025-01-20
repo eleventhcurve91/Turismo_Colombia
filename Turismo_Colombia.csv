@@ -1,0 +1,107 @@
+﻿ID_destino,Name,Department,City,Clima,Activities,Accommodation,Transport_Type,Ages,Estimated_Cost,Opinions,Qualification,Durations
+1,Museo Pablo Escobar,Antioquia,Medellín,Cálido,"Museo, Sitio historico",Hotel,"Transporte publico, Vehiculo particular",Adultos,$$,"3,666",4.5,1-2 horas
+2,Museo Nacional de Colombia,Bogotá D.C.,Bogotá,Frío,"Museo, Sitio historico",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,"1,793",4.5,2-4 horas
+3,Parque del Café,Quindío,Montenegro,Templado,"Parque temático, Caminatas, Atracciones","Hotel, Cabaña","Vehiculo particular, Transporte publico",Todo público,$$$,"2,261",4.5,1 día completo
+4,"Guatapé, Piedra del Peñol",Antioquia,Guatapé,Templado,"Caminata, Sitio historico, Vistas panorámicas","Hotel, Cabaña, Carpa","Vehiculo particular, Transporte publico",Todo público,$$,"3,591",5,3-6 horas
+5,Zoológico de Cali,Valle del Cauca,Cali,Cálido,"Zoológico, Caminata urbana",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,"2,500",4.5,3-4 horas
+6,Barrio La Candelaria,Bogotá D.C.,Bogotá,Frío,"Caminata urbana, Sitio historico",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,"4,792",4.5,2-3 horas
+7,Jardín Botánico de Bogotá,Bogotá D.C.,Bogotá,Frío,"Caminata urbana, Observacion de Naturaleza",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,"1,492",4.5,1-2 horas
+8,Santuario de Las Lajas,Nariño,Ipiales,Frío,"Peregrinación, Sitio historico","Hotel, Cabaña","Transporte publico, Vehiculo particular",Todo público,$$,869,4.5,2-3 horas
+9,Catedral de Sal,Cundinamarca,Zipaquirá,Frío,"Sitio historico, Caminata, Cavernas",Hotel,"Vehiculo particular, Transporte publico",Todo público,$$,"4,953",4.5,2-4 horas
+10,Parque Nacional Natural Tayrona,Magdalena,Santa Marta,Cálido,"Playa, Caminata, Snorkel","Carpa, Cabaña, Hotel","Vehiculo particular, Transporte publico, Barco",Todo público,$$$,"6,412",4.5,1-3 días
+11,Desierto de la Tatacoa,Huila,Villavieja,Desierto,"Observacion astronómica, Caminata","Carpa, Cabaña","Vehiculo particular, Transporte publico",Todo público,$$,846,4.5,3-6 horas
+12,Parque Explora,Antioquia,Medellín,Cálido,"Museo interactivo, Ciencia",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,"3,294",4.5,3-5 horas
+13,Ciudad Perdida,Magdalena,Santa Marta,Cálido,"Caminata, Arqueología, Naturaleza","Carpa, Cabaña","A pie, Vehiculo particular, Transporte publico",Adultos,$$$,"2,175",5,4-6 días
+14,Parque Arqueológico San Agustín,Huila,San Agustín,Templado,"Arqueología, Caminata","Hotel, Cabaña","Vehiculo particular, Transporte publico",Todo público,$$,"1,060",4.5,1 día completo
+15,Quinta de San Pedro Alejandrino,Magdalena,Santa Marta,Cálido,"Museo, Sitio historico",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,"1,518",4.5,2-3 horas
+16,Museo del Oro Zenú,Bolívar,Cartagena,Cálido,"Museo, Sitio historico",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,"2,272",4,1-2 horas
+17,Pueblito Paisa,Antioquia,Medellín,Cálido,"Caminata, Sitio historico",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,"3,091",4,1-2 horas
+18,Playa Cristal,Magdalena,Santa Marta,Cálido,"Playa, Natacion, Snorkel","Carpa, Cabaña","Vehiculo particular, Transporte publico, Barco",Todo público,$$$,"1,625",4.5,4-6 horas
+19,Plaza Mayor,Antioquia,Medellín,Cálido,"Caminata urbana, Eventos",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,"1,206",4.5,1-2 horas
+20,Parque Temático Hacienda Nápoles,Antioquia,Doradal,Cálido,"Zoológico, Atracciones, Caminatas","Hotel, Cabaña, Carpa","Vehiculo particular, Transporte publico",Todo público,$$$,800,4,1 día completo
+21,Casa Terracota,Boyacá,Villa de Leyva,Templado,"Arquitectura, Caminata","Hotel, Cabaña",Vehiculo particular,Todo público,$$,"1,150",4,1-2 horas
+22,Catedral Basílica de Manizales,Caldas,Manizales,Frío,"Peregrinación, Sitio historico, Vistas",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,788,4.5,1-2 horas
+23,Bosques de Cocora,Quindío,Salento,Templado,"Caminata, Observacion de Naturaleza","Carpa, Cabaña, Hotel","Vehiculo particular, Transporte publico",Todo público,$$,733,4.5,1 día completo
+24,Aviario Nacional de Colombia,Bolívar,Barú,Cálido,"Observacion de aves, Caminata",Hotel,"Vehiculo particular, Transporte publico",Todo público,$$,568,5,3-4 horas
+25,La Laguna de la Cocha,Nariño,Pasto,Frío,"Paseos en bote, Caminata","Cabaña, Hotel","Vehiculo particular, Transporte publico, Canoa",Todo público,$$,550,4.5,2-4 horas
+26,Piscilago,Tolima,Melgar,Cálido,"Parque acuático, Atracciones",Hotel,"Vehiculo particular, Transporte publico",Todo público,$$,350,4.5,1 día completo
+27,Ciudad Amurallada,Bolívar,Cartagena,Cálido,"Caminata urbana, Sitio historico, compras",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$$,490,4,2-4 horas
+28,Plaza de Mercado Paloquemao,Bogotá D.C.,Bogotá,Frío,"Gastronomía, mercado local",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,726,4.5,1-2 horas
+29,La Laguna de la Cocha,Nariño,Pasto,Frío,"Paseos en bote, Naturaleza","Cabaña, Hotel",Vehiculo particular,Todo público,$$,550,4.5,3-4 horas
+30,Museo Aéreo Fénix,Valle del Cauca,Cali,Cálido,"Museo, Aviacion",Hotel,"Vehiculo particular, Transporte publico",Todo público,$$,616,4.5,2-3 horas
+31,El Tesoro Parque Comercial,Antioquia,Medellín,Cálido,"Compras, Entretenimiento",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,405,4.5,3-4 horas
+32,Pantano de Vargas,Boyacá,Paipa,Frío,"Sitio historico, Naturaleza","Hotel, Cabaña",Vehiculo particular,Todo público,$$,404,4.5,1-2 horas
+33,Museo de la Caña de Azúcar,Valle del Cauca,Palmira,Cálido,"Museo, Historia, Naturaleza",Hotel,Vehiculo particular,Todo público,$$,367,4.5,2-3 horas
+34,Cabo de la Vela,La Guajira,Uribia,Desierto,"Playa, Caminatas, kitesurfing","Carpa, Cabaña","Vehiculo particular, Transporte publico",Todo público,$$,297,4.5,1 día completo
+35,Puente de Boyacá,Boyacá,Tunja,Frío,"Sitio historico, Caminata",Hotel,Vehiculo particular,Todo público,$,302,4.5,1-2 horas
+36,Parque Central Simón Bolívar,Bogotá D.C.,Bogotá,Frío,"Caminata, deporte, Picnic",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,"1,087",4.5,2-3 horas
+37,Teatro Colón de Bogotá,Bogotá D.C.,Bogotá,Frío,"Teatro, Eventos Culturales",Hotel,"Transporte publico, Vehiculo particular",Adultos,$$,391,4.5,2-3 horas
+38,Museo de Antioquia,Antioquia,Medellín,Cálido,"Museo, Arte",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,"2,043",4.5,1-2 horas
+39,Isla Múcura,Bolívar,Golfo de Morrosquillo,Cálido,"Playa, Snorkel, Descanso","Hotel, Cabaña","Barco, Avion",Todo público,$$$,282,4.5,1 día completo
+40,Biblioteca Luis Ángel Arango,Bogotá D.C.,Bogotá,Frío,"Lectura, Eventos Culturales",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,451,4.5,2-4 horas
+41,Castillo de Salgar,Atlántico,Puerto Colombia,Cálido,"Sitio historico, Vistas",Hotel,Vehiculo particular,Todo público,$$,505,4,2-3 horas
+42,Museo Naval del Caribe,Bolívar,Cartagena,Cálido,"Museo, Historia",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,"1,031",4,1-2 horas
+43,Plaza de Bolívar,Bogotá D.C.,Bogotá,Frío,"Sitio historico, Caminata",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,"3,500",4,1-2 horas
+44,Comuna 13 de Medellín,Antioquia,Medellín,Cálido,"Caminata, Arte urbano, Historia",Hotel,"Transporte publico, Vehiculo particular",Adultos,$,83,4.5,3-4 horas
+45,Recuca,Quindío,Calarcá,Templado,"Cultura cafetera, Caminata","Cabaña, Hotel","Vehiculo particular, Transporte publico",Todo público,$$,506,4.5,3-4 horas
+46,Basílica del Señor de los Milagros de Buga,Valle del Cauca,Buga,Cálido,"Peregrinación, Sitio historico",Hotel,"Vehiculo particular, Transporte publico",Todo público,$,307,4.5,2-3 horas
+47,Museo del Oro de Bogotá,Bogotá D.C.,Bogotá,Frío,"Museo, Historia",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,"14,623",4.5,2-3 horas
+48,Museo Internacional de la Esmeralda,Bogotá D.C.,Bogotá,Frío,"Museo, Joyeria",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,379,4,1-2 horas
+49,Estrecho del Magdalena,Huila,San Agustín,Templado,"Caminata, Naturaleza","Hotel, Cabaña","Vehiculo particular, Transporte publico",Todo público,$$,237,4.5,2-3 horas
+50,Carpa Delirio Cali,Valle del Cauca,Cali,Cálido,"Shows, Cultura",Hotel,"Vehiculo particular, Transporte publico",Adultos,$$$,232,4.5,3-4 horas
+51,Centro de Convenciones Cartagena de Indias,Bolívar,Cartagena,Cálido,"Eventos, Conferencias",Hotel,"Transporte publico, Vehiculo particular",Adultos,$$$,427,4,Variable
+52,Punta Gallinas,La Guajira,Uribia,Desierto,"Playa, Naturaleza","Carpa, Cabaña","Vehiculo particular, Transporte publico",Todo público,$$$,292,4.5,1 día completo
+53,Planetario de Bogotá,Bogotá D.C.,Bogotá,Frío,"Ciencia, Observacion astronómica",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,467,4.5,2-3 horas
+54,Maloka Museo Interactivo,Bogotá D.C.,Bogotá,Frío,"Ciencia, Tecnología",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,297,3.5,3-4 horas
+55,Museo del Oro Quimbaya Armenia,Quindío,Armenia,Templado,"Museo, Historia",Hotel,"Vehiculo particular, Transporte publico",Todo público,$$,240,4.5,2-3 horas
+56,Museo Botero,Bogotá D.C.,Bogotá,Frío,"Arte, Cultura",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,"10,527",4.5,1-2 horas
+57,Museo Casa de la Memoria,Antioquia,Medellín,Cálido,"Museo, Historia, Exposiciones Culturales",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,331,4.5,1-2 horas
+58,Parque Natural El Cocuy,Boyacá,El Cocuy,Frío,"Senderismo, Montañismo, Observacion de fauna","Carpa, Cabaña","Vehiculo particular, A pie",Adultos,$$$,132,5,6-8 horas
+59,Museo de Arte del Banco de la República,Bogotá D.C.,Bogotá,Frío,"Museo, Arte, Exposiciones",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,332,4.5,1-2 horas
+60,Nevado Santa Isabel,Risaralda,Pereira,Frío,"Senderismo, Observacion de Naturaleza","Cabaña, Carpa","Vehiculo particular, A pie",Adultos,$$$,88,5,5-6 horas
+61,Panaca,Quindío,Quimbaya,Cálido,"Interacción con animales, parque temático","Hotel, Cabaña","Vehiculo particular, Transporte publico",Todo público,$$$,842,4,4-5 horas
+62,Museo La Tertulia,Valle del Cauca,Cali,Cálido,"Museo, Arte, Exposiciones",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,213,4.5,1-2 horas
+63,Museo de la Independencia Casa del Florero,Bogotá D.C.,Bogotá,Frío,"Sitio historico, Museo",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,160,4,1-2 horas
+64,Parque Natural Puracé,Cauca,Popayán,Frío,"Senderismo, Observacion de fauna y flora","Carpa, Cabaña",Vehiculo particular,Adultos,$$$,11,5,4-5 horas
+65,Museo Mapuka,Atlántico,Barranquilla,Cálido,"Museo, Arqueología",Hotel,"Vehiculo particular, Transporte publico",Todo público,$$,79,5,1-2 horas
+66,Cerro de Monserrate,Bogotá D.C.,Bogotá,Frío,"Peregrinación, Vistas panorámicas",Hotel,"Teleférico, A pie, Transporte publico",Todo público,$$,"16,084",4.5,2-3 horas
+67,Ciudad Amurallada,Bolívar,Cartagena,Cálido,"Sitio historico, Caminata urbana","Hotel, Cabaña","Vehiculo particular, Avion",Todo público,$$$,"23,286",4.5,4-5 horas
+68,Castillo de San Felipe,Bolívar,Cartagena,Cálido,"Sitio historico, Caminata",Hotel,"Vehiculo particular, Transporte publico",Todo público,$$,"13,200",4.5,2-3 horas
+69,Johnny Cay,San Andrés,San Andrés,Cálido,"Playa, Snorkel, Caminata",Hotel,"Barco, Canoa",Todo público,$$,"6,948",4.5,2-3 horas
+70,Cayo Bolívar,San Andrés,San Andrés,Cálido,"Playa, Buceo, Snorkel",Hotel,Barco,Adultos,$$$,"1,897",4.5,4-5 horas
+71,Laguna de Guatavita,Cundinamarca,Sesquilé,Frío,"Senderismo, Naturaleza, Sitio historico","Cabaña, Hotel",Vehiculo particular,Todo público,$$,"1,667",4.5,2-3 horas
+72,Mercado de Pulgas de Usaquén,Bogotá D.C.,Bogotá,Frío,"Compras, Artesanías, Gastronomia",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,668,4.5,2-3 horas
+73,Parque Jaime Duque,Cundinamarca,Tocancipá,Frío,"Parque temático, Zoológico, Historia","Hotel, Cabaña","Vehiculo particular, Transporte publico",Todo público,$$,613,4.5,4-5 horas
+74,Planetario de Medellín,Antioquia,Medellín,Cálido,"Ciencia, astronomía, Actividades interactivas",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,467,4.5,1-2 horas
+75,Teatro Mayor Julio Mario Santo Domingo,Bogotá D.C.,Bogotá,Frío,"Espectáculos, conciertos, Teatro",Hotel,"Transporte publico, Vehiculo particular",Adultos,$$,578,4.5,2-3 horas
+76,Parque Natural Chicaque,Cundinamarca,San Antonio del Tequendama,Frío,"Senderismo, Observacion de Naturaleza, Camping","Cabaña, Carpa","Vehiculo particular, Transporte publico",Adultos,$$,472,4.5,4-6 horas
+77,Jardín Botánico del Quindío,Quindío,Calarcá,Cálido,"Observacion de flora, Caminatas ecológicas",Hotel,"Vehiculo particular, Transporte publico",Todo público,$$,390,4.5,2-3 horas
+78,Caño Cristales,Meta,La Macarena,Cálido,"Senderismo, Naturaleza, Observacion de ríos de colores","Cabaña, Carpa","Avion, Canoa, A pie",Adultos,$$$,444,5,6-8 horas
+79,Parque Nacional Natural de Los Nevados,Caldas,Manizales,Frío,"Senderismo, Montañismo, Observacion de glaciares","Cabaña, Carpa","Vehiculo particular, A pie",Adultos,$$$,13,5,6-8 horas
+80,Cerros de Mavecure,Guainía,Inírida,Cálido,"Senderismo, Fotografia, Naturaleza","Carpa, Cabaña","Canoa, Avion, A pie",Adultos,$$$,48,5,4-6 horas
+81,Cañón del Güejar,Meta,San Juan de Arama,Cálido,"Rafting, Senderismo, Observacion de cascadas",Carpa,"Vehiculo particular, A pie",Adultos,$$,1,5,4-6 horas
+82,Bahía Solano y Nuquí,Chocó,Nuquí/Bahía Solano,Cálido,"Avistamiento de ballenas, Playa, Ecoturismo","Hotel, Cabaña","Avion, Barco",Todo público,$$$$,82,5,1-3 días
+83,Norcasia,Caldas,Norcasia,Templado,"Deportes náuticos, Observacion de Naturaleza","Hotel, Cabaña",Vehiculo particular,Todo público,$$,2,5,3-5 horas
+84,Cerro Azul,Guaviare,San José del Guaviare,Cálido,"Arte rupestre, Senderismo, Fotografia","Carpa, Cabaña","Vehiculo particular, A pie",Adultos,$$,12,5,4-6 horas
+85,Puerto Nariño,Amazonas,Puerto Nariño,Cálido,"Ecoturismo,  Avistamiento de fauna","Hotel, Cabaña","Barco, Canoa",Todo público,$$$,3,5,1-2 días
+86,Isla Gorgona,Cauca,Gorgona,Cálido,"Buceo, Senderismo, Historia","Hotel, Cabaña","Barco, Avion",Adultos,$$$$,200,5,1-2 días
+87,Oasis de la Sirena,Valle del Cauca,Palmira,Templado,"Relajación, Observacion de Naturaleza",Cabaña,Vehiculo particular,Todo público,$$,50,5,1 dia completo
+88,Parque Nacional Utría,Chocó,Nuquí,Cálido,"Ecoturismo,  Avistamiento de ballenas","Hotel, Carpa","Barco, Avion",Todo público,$$$,57,4.5,6-8 horas
+89,Área Natural Única Los Estoraques,Norte de Santander,La Playa de Belén,Templado,"Senderismo, Geologia, Fotografia","Carpa, Cabaña","Vehiculo particular, A pie",Todo público,$$,2,5,4-6 horas
+90,Parque Nacional Natural Chingaza,Cundinamarca,Bogotá/Villavicencio,Frío,"Senderismo, Observacion de fauna","Carpa, Cabaña","Vehiculo particular, A pie",Adultos,$$$,61,5,6-8 horas
+91,Islas del Rosario,Bolívar,Cartagena,Cálido,"Playa, Buceo, Snorkel","Hotel, Cabaña",Barco,Todo público,$$$,984,4.5,1-2 días
+92,Parque Nacional Natural Uramba Bahía Málaga,Valle del Cauca,Buenaventura,Cálido,"Avistamiento de ballenas, Senderismo","Cabaña, Carpa",Barco,Todo público,$$$$,43,5,6-8 horas
+93,Barichara,Santander,Barichara,Templado,"Caminatas, Fotografia, Arquitectura colonial","Hotel, Cabaña",Vehiculo particular,Todo público,$$,488,4.5,4-6 horas
+94,Museo Jairo Varela,Valle del Cauca,Cali,Cálido,"Museo, Música",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,84,4.5,1-2 horas
+95,Cañón del Chicamocha,Santander,Bucaramanga,Templado,"Parapente, Senderismo, parque temático","Hotel, Carpa",Vehiculo particular,Todo público,$$$,"1,550",4.5,6-8 horas
+96,Páramo de Sumapaz,Cundinamarca,Bogotá,Frío,"Senderismo, Observacion de ecosistemas",Carpa,"Vehiculo particular, A pie",Adultos,$$,7,5,4-6 horas
+97,Hacienda El Paraíso,Valle del Cauca,El Cerrito,Templado,"Historia, Literatura",Hotel,Vehiculo particular,Todo público,$$,175,4.5,2-4 horas
+98,Parque Mundo Aventura,Bogotá D.C.,Bogotá,Frío,"Parque temático, Atracciones mecánicas",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,348,4,4-6 horas
+100,Parque Lleras,Antioquia,Medellín,Cálido,"Vida nocturna, Gastronomia",Hotel,"Transporte publico, Vehiculo particular",Adultos,$$,"1,533",4,2-4 horas
+101,Museo de Arte Moderno de Medellín,Antioquia,Medellín,Cálido,"Museo, Arte",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,404,4,1-2 horas
+102,Oceanario Islas del Rosario,Bolívar,Cartagena,Cálido,Observacion de fauna marina,"Hotel, Cabaña",Barco,Todo público,$$$,984,4.5,2-4 horas
+103,Acuario Mundo Marino Santa Marta,Magdalena,Santa Marta,Cálido,Observacion de fauna marina,Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,275,4,1-2 horas
+104,Casa Museo Quinta de Bolivar ,Bogotá D.C.,Bogotá,Frío,"Historia, Museo",Hotel,"Transporte publico, Vehiculo particular",Todo público,$,861,4.5,1-2 horas
+105,zona G de Bogotá,Bogotá D.C.,Bogotá,Frío,Gastronomía,Hotel,"Transporte publico, Vehiculo particular",Todo público,$$$,442,4.5,1-2 horas
+106,Nevado del Ruiz,Caldas,Manizales,Frío,"Senderismo, Observacion de Naturaleza, Camping",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,420,4.5,1 día completo
+107,Mina de Sal de Nemocón,Cundinamarca,Nemocón,Frío,"Cavernas, Caminata",Hotel,"Transporte publico, Vehiculo particular",Todo público,$$,394,4.5,1-2 horas
